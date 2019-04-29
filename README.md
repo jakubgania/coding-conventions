@@ -10,5 +10,15 @@ The above quote comes from [en.wikipedia.org](https://en.wikipedia.org/).
 
 
 ##  Webistes :computer:
+...
 
 ##  Literature :book:
+...
+
+
+## "Talk is cheap. Show me the code." ― Linus Torvalds 
+## "Truth can only be found in one place: the code." ― Robert C. Martin
+## "Quality is more important than quantity. One home run is much better than two doubles." - Steve Jobs
+
+![alt text](https://raw.githubusercontent.com/jakubgania/coding-conventions/master/The-Matrix-code.jpg)
+

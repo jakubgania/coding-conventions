@@ -1,7 +1,7 @@
 # Coding conventions
 
 ```diff
-- This document is in the phase of continuous development
+- This document is in the phase of continuous development and it is at a very early stage.
 ```
 
 ## About

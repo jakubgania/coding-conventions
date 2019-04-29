@@ -15,7 +15,27 @@ The above quote comes from [en.wikipedia.org](https://en.wikipedia.org/).
 
 
 ##  Webistes :computer:
-...
+
+General :
+  - [Top 15+ Best Practices for Writing Super Readable Code](https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118)
+  
+##  Principles
+
+### - [Programming principles](https://en.wikipedia.org/wiki/Category:Programming_principles)
+
+### SOLID
+  - [p-programowanie](https://www.p-programowanie.pl/paradygmaty-programowania/zasady-solid/)
+  - [sii](https://sii.pl/blog/solid-dobre-praktyki-programowania/)
+
+### KISS
+### DRY
+
+## Methodology
+
+### - [BEM](https://en.bem.info/methodology/quick-start/)
+
+##  Tools for editors and ide
+This section contains plugins and extensions for development environments, supporting the creation of good, clean and formatted code according to specific rules
 
 ##  Literature :book:
 ...

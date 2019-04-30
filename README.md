@@ -13,6 +13,7 @@ The above quote comes from [en.wikipedia.org](https://en.wikipedia.org/).
 ## More about coding conventions :
   - [Coding conventions - Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
 
+***
 
 ##  Webistes :computer:
 
@@ -31,7 +32,9 @@ The above quote comes from [en.wikipedia.org](https://en.wikipedia.org/).
   - [Jak napisać dobry kod?](https://superkoder.pl/jak-napisac-dobry-kod/)
   
   - [Jak pisać lepszy kod? 12 technik dla programistów – część 1](http://opracyzdalnej.pl/jak-pisac-lepszy-kod-12-technik-dla-programistow-czesc-1/)
-    
+
+***
+
 ##  Principles
 
   - [Programming principles](https://en.wikipedia.org/wiki/Category:Programming_principles)
@@ -47,17 +50,30 @@ The above quote comes from [en.wikipedia.org](https://en.wikipedia.org/).
 
    - [BEM](https://en.bem.info/methodology/quick-start/)
 
+***
+
 ##  Tools for editors and ide
 This section contains plugins and extensions for development environments, supporting the creation of good, clean and formatted code according to specific rules
+
+### For Visual Studio Code
+
+### For Atom
+
+### For PhpStorm
+
+***
 
 ## Youtube
 
   - [JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0)
   - [Tips for cleaner code: Cleaning up IF statements](https://www.youtube.com/watch?v=ldqDpmMkXgw)
 
+***
+
 ##  Literature :book:
 ...
 
+***
 
 ### "Talk is cheap. Show me the code." ― Linus Torvalds 
 ### "Truth can only be found in one place: the code." ― Robert C. Martin

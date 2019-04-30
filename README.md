@@ -26,6 +26,12 @@ The above quote comes from [en.wikipedia.org](https://en.wikipedia.org/).
   
   - [Czysty kod, czyli jaki? 4 zasady czystego kodu w C#](https://geek.justjoin.it/czysty-kod-czyli-4-zasady-czystego-kodu-c/)
   
+  - [Czytelny kod](https://typeofweb.com/2016/11/25/czytelny-kod/)
+  
+  - [Jak napisać dobry kod?](https://superkoder.pl/jak-napisac-dobry-kod/)
+  
+  - [Jak pisać lepszy kod? 12 technik dla programistów – część 1](http://opracyzdalnej.pl/jak-pisac-lepszy-kod-12-technik-dla-programistow-czesc-1/)
+    
 ##  Principles
 
   - [Programming principles](https://en.wikipedia.org/wiki/Category:Programming_principles)

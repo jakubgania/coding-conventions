@@ -16,7 +16,7 @@ The above quote comes from [en.wikipedia.org](https://en.wikipedia.org/).
 
 ##  Webistes :computer:
 
-General :
+### General :
   - [Top 15+ Best Practices for Writing Super Readable Code](https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118)
   
   - [How to write clean code? Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c)
